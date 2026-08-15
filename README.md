@@ -140,4 +140,4 @@ The complete list of supported devices includes the following families (see hard
 
 ---
 
-## `MultiProg` قرار دهید. همچنین می‌توانید از محتوای آن برای صفحه‌ی محصول در وبسایت خود نیز استفاده کنید.
+## `MultiProg` قرار دهید. همچنین می‌توانید از محتوای  صفحه‌ی محصول در وبسایت https://shop-electronic.ir نیز استفاده کنید.
