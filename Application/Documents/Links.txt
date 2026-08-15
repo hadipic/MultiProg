@@ -1,0 +1,2 @@
+http://developer.android.com/guide/topics/connectivity/usb/host.html
+http://mobilemerit.com/android-app-for-usb-host-with-source-code/

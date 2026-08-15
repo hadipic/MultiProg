@@ -1,0 +1,8 @@
+cd F:\Softwares\Programming\Mobile\Android\adt-bundle-windows-x86_64-From Google\sdk\platform-tools
+"F:\Softwares\Programming\Mobile\Android\adt-bundle-windows-x86_64-From Google\sdk\platform-tools"\adb connect 192.168.43.1
+
+1:Connect device via USB and make sure debugging is working.
+2:adb tcpip 5555
+3:adb connect <DEVICE_IP_ADDRESS>:5555
+4:Disconnect USB and proceed with wireless debugging.
+5:adb -s <DEVICE_IP_ADDRESS>:5555 usb to switch back when done.

@@ -1,0 +1,91 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/Conn2.png</file>
+        <file>images/Conn3.png</file>
+        <file>images/write.png</file>
+        <file>images/read.png</file>
+        <file>images/programer.ico</file>
+        <file>images/ic4.png</file>
+        <file>images/ic1.png</file>
+        <file>images/ic2.png</file>
+        <file>images/ic3.png</file>
+        <file>images/halt.png</file>
+        <file>images/step.png</file>
+        <file>images/stepover.png</file>
+        <file>images/stop.png</file>
+        <file>images/go.png</file>
+        <file>images/refresh.png</file>
+        <file>icon/ArtWork Icon 15.ico</file>
+        <file>icon/ArtWork Icon 16.ico</file>
+        <file>icon/ArtWork Icon 38.ico</file>
+        <file>icon/ArtWork Icon 72.ico</file>
+        <file>icon/ASCIITable.ico</file>
+        <file>icon/CheckmarkGreen_16x16.ico</file>
+        <file>icon/CHIP.ICO</file>
+        <file>icon/Chip_fp2.ico</file>
+        <file>icon/Chip_fp2.png</file>
+        <file>icon/COMPORT.ICO</file>
+        <file>icon/Constraint.ico</file>
+        <file>icon/Control Panel.ico</file>
+        <file>icon/Crayin Icon 07.ico</file>
+        <file>icon/Crayin Icon 35.ico</file>
+        <file>icon/critical.ico</file>
+        <file>icon/download.ico</file>
+        <file>icon/FpgaProject.ico</file>
+        <file>icon/Hardware.ico</file>
+        <file>icon/Help_16x16.ico</file>
+        <file>icon/ico_alpha_autorumsettings_ilSmall_7_16x16.ico</file>
+        <file>icon/ico_alpha_autorumsettings_ilSmall_12_16x16.ico</file>
+        <file>icon/ico_alpha_Search_16x16.ico</file>
+        <file>icon/ico_alpha_ufrmSysOpt_ilAdvisor_4_16x16.ico</file>
+        <file>icon/ICOOFF.ICO</file>
+        <file>icon/ICOON.ICO</file>
+        <file>icon/idr_irsc.ico</file>
+        <file>icon/logo.ico</file>
+        <file>icon/ManufacturedItem.ico</file>
+        <file>icon/Microchip.ico</file>
+        <file>icon/msd_drive.ico</file>
+        <file>icon/OBDGauge.ico</file>
+        <file>icon/Open Folder.ico</file>
+        <file>icon/OpenProg.ico</file>
+        <file>icon/PCadLib.ico</file>
+        <file>icon/PCadPcb.ico</file>
+        <file>icon/pcb3d.ico</file>
+        <file>icon/Pcb.ico</file>
+        <file>icon/Pld_cupl.ico</file>
+        <file>icon/Preferences_PCB3D.ico</file>
+        <file>icon/Preferences_VersionControl.ico</file>
+        <file>icon/programer.ico</file>
+        <file>icon/read.png</file>
+        <file>icon/refresh.png</file>
+        <file>icon/Restore.ICO</file>
+        <file>icon/Save.ico</file>
+        <file>icon/Scissors.ico</file>
+        <file>icon/Status_Play.ico</file>
+        <file>icon/stop.ico</file>
+        <file>icon/sync.ico</file>
+        <file>icon/SysReqMet.ico</file>
+        <file>icon/SysReqNotMet.ico</file>
+        <file>icon/TIMER01.ICO</file>
+        <file>icon/Tracer Icon 16.ico</file>
+        <file>icon/VendorConstraint.ico</file>
+        <file>icon/Write.PNG</file>
+        <file>icon/readtqfp.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/CopyUserSettings.png</file>
+        <file>icon/writetqfp.png</file>
+        <file>icon/activate.png</file>
+        <file>icon/Exit.ico</file>
+        <file>icon/ir.ico</file>
+        <file>icon/eng.ico</file>
+        <file>icon/eng.PNG</file>
+        <file>icon/ir.PNG</file>
+        <file>images/DetectDevice.png</file>
+    </qresource>
+</RCC>

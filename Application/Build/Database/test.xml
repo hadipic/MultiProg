@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<DATAPACKET Version="1.0">
+  <METADATA>
+    <FIELDS>
+      <FIELD ATTRNAME="AvrDeviceID" FIELDTYPE="Integer" WIDTH="66"/>
+      <FIELD ATTRNAME="Name" FIELDTYPE="WideString" WIDTH="74"/>
+      <FIELD ATTRNAME="LowFuseByteID" FIELDTYPE="Integer" WIDTH="80"/>
+      <FIELD ATTRNAME="HighFuseByteID" FIELDTYPE="Integer" WIDTH="82"/>
+      <FIELD ATTRNAME="ExtendFuseByteID" FIELDTYPE="Integer" WIDTH="95"/>
+      <FIELD ATTRNAME="LockFuseByteID" FIELDTYPE="Integer" WIDTH="82"/>
+    </FIELDS>
+  </METADATA>
+  <ROWDATA>
+    <ROW AvrDeviceID="1" Name="AT86RF401" LowFuseByteID="2,190" HighFuseByteID="2,191" ExtendFuseByteID="2,192" LockFuseByteID="2,193"/>
+    <ROW AvrDeviceID="2" Name="AT90CAN128" LowFuseByteID="2,194" HighFuseByteID="2,195" ExtendFuseByteID="2,196" LockFuseByteID="2,197"/>
+    <ROW AvrDeviceID="3" Name="AT90CAN32" LowFuseByteID="2,198" HighFuseByteID="2,199" ExtendFuseByteID="2,200" LockFuseByteID="2,201"/>
+    <ROW AvrDeviceID="4" Name="AT90CAN64" LowFuseByteID="2,202" HighFuseByteID="2,203" ExtendFuseByteID="2,204" LockFuseByteID="2,205"/>
+    <ROW AvrDeviceID="5" Name="AT90PWM2" LowFuseByteID="2,206" HighFuseByteID="2,207" ExtendFuseByteID="2,208" LockFuseByteID="2,209"/>
+    <ROW AvrDeviceID="6" Name="AT90PWM3" LowFuseByteID="2,210" HighFuseByteID="2,211" ExtendFuseByteID="2,212" LockFuseByteID="2,213"/>
+    <ROW AvrDeviceID="7" Name="AT90S1200" LowFuseByteID="2,214" HighFuseByteID="2,215" ExtendFuseByteID="2,216" LockFuseByteID="2,217"/>
+    <ROW AvrDeviceID="8" Name="AT90S2313" LowFuseByteID="2,218" HighFuseByteID="2,219" ExtendFuseByteID="2,220" LockFuseByteID="2,221"/>
+    <ROW AvrDeviceID="9" Name="AT90S2323" LowFuseByteID="2,222" HighFuseByteID="2,223" ExtendFuseByteID="2,224" LockFuseByteID="2,225"/>
+    <ROW AvrDeviceID="10" Name="AT90S2343" LowFuseByteID="2,226" HighFuseByteID="2,227" ExtendFuseByteID="2,228" LockFuseByteID="2,229"/>
+    <ROW AvrDeviceID="11" Name="AT90S4414" LowFuseByteID="2,230" HighFuseByteID="2,231" ExtendFuseByteID="2,232" LockFuseByteID="2,233"/>
+    <ROW AvrDeviceID="12" Name="AT90S4433" LowFuseByteID="2,234" HighFuseByteID="2,235" ExtendFuseByteID="2,236" LockFuseByteID="2,237"/>
+    <ROW AvrDeviceID="13" Name="AT90S4434" LowFuseByteID="2,238" HighFuseByteID="2,239" ExtendFuseByteID="2,240" LockFuseByteID="2,241"/>
+    <ROW AvrDeviceID="14" Name="AT90S8515" LowFuseByteID="2,242" HighFuseByteID="2,243" ExtendFuseByteID="2,244" LockFuseByteID="2,245"/>
+    <ROW AvrDeviceID="15" Name="AT90S8535" LowFuseByteID="2,246" HighFuseByteID="2,247" ExtendFuseByteID="2,248" LockFuseByteID="2,249"/>
+    <ROW AvrDeviceID="16" Name="AT90USB1286" LowFuseByteID="2,250" HighFuseByteID="2,251" ExtendFuseByteID="2,252" LockFuseByteID="2,253"/>
+    <ROW AvrDeviceID="17" Name="AT90USB1287" LowFuseByteID="2,254" HighFuseByteID="2,255" ExtendFuseByteID="2,256" LockFuseByteID="2,257"/>
+    <ROW AvrDeviceID="18" Name="ATMEGA103" LowFuseByteID="2,258" HighFuseByteID="2,259" ExtendFuseByteID="2,260" LockFuseByteID="2,261"/>
+    <ROW AvrDeviceID="19" Name="ATMEGA128" LowFuseByteID="2,262" HighFuseByteID="2,263" ExtendFuseByteID="2,264" LockFuseByteID="2,265"/>
+    <ROW AvrDeviceID="20" Name="ATMEGA1280" LowFuseByteID="2,266" HighFuseByteID="2,267" ExtendFuseByteID="2,268" LockFuseByteID="2,269"/>
+    <ROW AvrDeviceID="21" Name="ATMEGA1281" LowFuseByteID="2,270" HighFuseByteID="2,271" ExtendFuseByteID="2,272" LockFuseByteID="2,273"/>
+    <ROW AvrDeviceID="22" Name="ATMEGA16" LowFuseByteID="2,274" HighFuseByteID="2,275" ExtendFuseByteID="2,276" LockFuseByteID="2,277"/>
+    <ROW AvrDeviceID="23" Name="ATMEGA161" LowFuseByteID="2,278" HighFuseByteID="2,279" ExtendFuseByteID="2,280" LockFuseByteID="2,281"/>
+    <ROW AvrDeviceID="24" Name="ATMEGA162" LowFuseByteID="2,282" HighFuseByteID="2,283" ExtendFuseByteID="2,284" LockFuseByteID="2,285"/>
+    <ROW AvrDeviceID="25" Name="ATMEGA163" LowFuseByteID="2,286" HighFuseByteID="2,287" ExtendFuseByteID="2,288" LockFuseByteID="2,289"/>
+    <ROW AvrDeviceID="26" Name="ATMEGA164" LowFuseByteID="2,290" HighFuseByteID="2,291" ExtendFuseByteID="2,292" LockFuseByteID="2,293"/>
+    <ROW AvrDeviceID="27" Name="ATMEGA165" LowFuseByteID="2,294" HighFuseByteID="2,295" ExtendFuseByteID="2,296" LockFuseByteID="2,297"/>
+    <ROW AvrDeviceID="28" Name="ATMEGA168" LowFuseByteID="2,298" HighFuseByteID="2,299" ExtendFuseByteID="2,300" LockFuseByteID="2,301"/>
+    <ROW AvrDeviceID="29" Name="ATMEGA169" LowFuseByteID="2,302" HighFuseByteID="2,303" ExtendFuseByteID="2,304" LockFuseByteID="2,305"/>
+    <ROW AvrDeviceID="30" Name="ATMEGA2560" LowFuseByteID="2,306" HighFuseByteID="2,307" ExtendFuseByteID="2,308" LockFuseByteID="2,309"/>
+    <ROW AvrDeviceID="31" Name="ATMEGA2561" LowFuseByteID="2,310" HighFuseByteID="2,311" ExtendFuseByteID="2,312" LockFuseByteID="2,313"/>
+    <ROW AvrDeviceID="32" Name="ATMEGA32" LowFuseByteID="2,314" HighFuseByteID="2,315" ExtendFuseByteID="2,316" LockFuseByteID="2,317"/>
+    <ROW AvrDeviceID="33" Name="ATMEGA323" LowFuseByteID="2,318" HighFuseByteID="2,319" ExtendFuseByteID="2,320" LockFuseByteID="2,321"/>
+    <ROW AvrDeviceID="34" Name="ATMEGA325" LowFuseByteID="2,322" HighFuseByteID="2,323" ExtendFuseByteID="2,324" LockFuseByteID="2,325"/>
+    <ROW AvrDeviceID="35" Name="ATMEGA3250" LowFuseByteID="2,326" HighFuseByteID="2,327" ExtendFuseByteID="2,328" LockFuseByteID="2,329"/>
+    <ROW AvrDeviceID="36" Name="ATMEGA329" LowFuseByteID="2,330" HighFuseByteID="2,331" ExtendFuseByteID="2,332" LockFuseByteID="2,333"/>
+    <ROW AvrDeviceID="37" Name="ATMEGA3290" LowFuseByteID="2,334" HighFuseByteID="2,335" ExtendFuseByteID="2,336" LockFuseByteID="2,337"/>
+    <ROW AvrDeviceID="38" Name="ATMEGA406" LowFuseByteID="2,338" HighFuseByteID="2,339" ExtendFuseByteID="2,340" LockFuseByteID="2,341"/>
+    <ROW AvrDeviceID="39" Name="ATMEGA48" LowFuseByteID="2,342" HighFuseByteID="2,343" ExtendFuseByteID="2,344" LockFuseByteID="2,345"/>
+    <ROW AvrDeviceID="40" Name="ATMEGA64" LowFuseByteID="2,346" HighFuseByteID="2,347" ExtendFuseByteID="2,348" LockFuseByteID="2,349"/>
+    <ROW AvrDeviceID="41" Name="ATMEGA640" LowFuseByteID="2,350" HighFuseByteID="2,351" ExtendFuseByteID="2,352" LockFuseByteID="2,353"/>
+    <ROW AvrDeviceID="42" Name="ATMEGA644" LowFuseByteID="2,354" HighFuseByteID="2,355" ExtendFuseByteID="2,356" LockFuseByteID="2,357"/>
+    <ROW AvrDeviceID="43" Name="ATMEGA645" LowFuseByteID="2,358" HighFuseByteID="2,359" ExtendFuseByteID="2,360" LockFuseByteID="2,361"/>
+    <ROW AvrDeviceID="44" Name="ATMEGA6450" LowFuseByteID="2,362" HighFuseByteID="2,363" ExtendFuseByteID="2,364" LockFuseByteID="2,365"/>
+    <ROW AvrDeviceID="45" Name="ATMEGA649" LowFuseByteID="2,366" HighFuseByteID="2,367" ExtendFuseByteID="2,368" LockFuseByteID="2,369"/>
+    <ROW AvrDeviceID="46" Name="ATMEGA6490" LowFuseByteID="2,370" HighFuseByteID="2,371" ExtendFuseByteID="2,372" LockFuseByteID="2,373"/>
+    <ROW AvrDeviceID="47" Name="ATMEGA8" LowFuseByteID="2,374" HighFuseByteID="2,375" ExtendFuseByteID="2,376" LockFuseByteID="2,377"/>
+    <ROW AvrDeviceID="48" Name="ATMEGA8515" LowFuseByteID="2,378" HighFuseByteID="2,379" ExtendFuseByteID="2,380" LockFuseByteID="2,381"/>
+    <ROW AvrDeviceID="49" Name="ATMEGA8535" LowFuseByteID="2,382" HighFuseByteID="2,383" ExtendFuseByteID="2,384" LockFuseByteID="2,385"/>
+    <ROW AvrDeviceID="50" Name="ATMEGA88" LowFuseByteID="2,386" HighFuseByteID="2,387" ExtendFuseByteID="2,388" LockFuseByteID="2,389"/>
+    <ROW AvrDeviceID="51" Name="ATTINY11" LowFuseByteID="2,390" HighFuseByteID="2,391" ExtendFuseByteID="2,392" LockFuseByteID="2,393"/>
+    <ROW AvrDeviceID="52" Name="ATTINY12" LowFuseByteID="2,394" HighFuseByteID="2,395" ExtendFuseByteID="2,396" LockFuseByteID="2,397"/>
+    <ROW AvrDeviceID="53" Name="ATTINY13" LowFuseByteID="2,398" HighFuseByteID="2,399" ExtendFuseByteID="2,400" LockFuseByteID="2,401"/>
+    <ROW AvrDeviceID="54" Name="ATTINY15" LowFuseByteID="2,402" HighFuseByteID="2,403" ExtendFuseByteID="2,404" LockFuseByteID="2,405"/>
+    <ROW AvrDeviceID="55" Name="ATTINY22" LowFuseByteID="2,406" HighFuseByteID="2,407" ExtendFuseByteID="2,408" LockFuseByteID="2,409"/>
+    <ROW AvrDeviceID="56" Name="ATTINY2313" LowFuseByteID="2,410" HighFuseByteID="2,411" ExtendFuseByteID="2,412" LockFuseByteID="2,413"/>
+    <ROW AvrDeviceID="57" Name="ATTINY24" LowFuseByteID="2,414" HighFuseByteID="2,415" ExtendFuseByteID="2,416" LockFuseByteID="2,417"/>
+    <ROW AvrDeviceID="58" Name="ATTINY25" LowFuseByteID="2,418" HighFuseByteID="2,419" ExtendFuseByteID="2,420" LockFuseByteID="2,421"/>
+    <ROW AvrDeviceID="59" Name="ATTINY26" LowFuseByteID="2,422" HighFuseByteID="2,423" ExtendFuseByteID="2,424" LockFuseByteID="2,425"/>
+    <ROW AvrDeviceID="60" Name="ATTINY261" LowFuseByteID="2,426" HighFuseByteID="2,427" ExtendFuseByteID="2,428" LockFuseByteID="2,429"/>
+    <ROW AvrDeviceID="61" Name="ATTINY28" LowFuseByteID="2,430" HighFuseByteID="2,431" ExtendFuseByteID="2,432" LockFuseByteID="2,433"/>
+    <ROW AvrDeviceID="62" Name="ATTINY4313" LowFuseByteID="2,434" HighFuseByteID="2,435" ExtendFuseByteID="2,436" LockFuseByteID="2,437"/>
+    <ROW AvrDeviceID="63" Name="ATTINY44" LowFuseByteID="2,438" HighFuseByteID="2,439" ExtendFuseByteID="2,440" LockFuseByteID="2,441"/>
+    <ROW AvrDeviceID="64" Name="ATTINY45" LowFuseByteID="2,442" HighFuseByteID="2,443" ExtendFuseByteID="2,444" LockFuseByteID="2,445"/>
+    <ROW AvrDeviceID="65" Name="ATTINY461" LowFuseByteID="2,446" HighFuseByteID="2,447" ExtendFuseByteID="2,448" LockFuseByteID="2,449"/>
+    <ROW AvrDeviceID="66" Name="ATTINY84" LowFuseByteID="2,450" HighFuseByteID="2,451" ExtendFuseByteID="2,452" LockFuseByteID="2,453"/>
+    <ROW AvrDeviceID="67" Name="ATTINY85" LowFuseByteID="2,454" HighFuseByteID="2,455" ExtendFuseByteID="2,456" LockFuseByteID="2,457"/>
+    <ROW AvrDeviceID="68" Name="ATTINY861" LowFuseByteID="2,458" HighFuseByteID="2,459" ExtendFuseByteID="2,460" LockFuseByteID="2,461"/>
+    <ROW AvrDeviceID="69" Name="ATTINY88" LowFuseByteID="2,462" HighFuseByteID="2,463" ExtendFuseByteID="2,464" LockFuseByteID="2,465"/>
+    <ROW AvrDeviceID="70" Name="W25Q64" LowFuseByteID="2,466" HighFuseByteID="2,467" ExtendFuseByteID="2,468" LockFuseByteID="2,469"/>
+  </ROWDATA>
+</DATAPACKET>
